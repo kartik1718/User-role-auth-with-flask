@@ -1,7 +1,0 @@
-'tblzpjpq'
-'tiny.db.elephantsql.com'
-'5432'
-'tblzpjpq'
-'EUyQsaBJiAZCMKHjLbFHoNDyr3mj-gkC'
-'company'
-'postgresql'
